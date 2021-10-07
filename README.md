@@ -8,3 +8,6 @@ cd frontend/
 npm i react-scripts
 o
 npm i
+Frontend(React Js)
+Backemd(Node Js)
+Base de datos(MongoDB)
